@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3A369,50:003057,100:B3A369&height=200&section=header&text=Vitória%20Albuquerque&fontSize=40&fontColor=EAAA00&animation=fadeIn&fontAlignY=38&desc=🐝%20incoming%20Georgia%20Tech%20%7C%20Fall%202026%20🐝&descAlignY=58&descSize=16&descColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=EAAA00&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=70&lines=Computer+Engineering+%40+Georgia+Tech+Fall+2026+🐝;Python+%7C+JavaScript+%7C+React+%7C+Node.js+%7C+Arduino;building+things+that+matter+from+Northeast+Brazil+🌵)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=EAAA00&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=70&lines=Computer+Engineering+%40+Georgia+Tech+Fall+2026+🐝;Python+%7C+JavaScript+%7C+React+%7C+Cypress+%7C+Arduino;building+things+that+matter+from+Northeast+Brazil+🌵)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,6 +26,7 @@ Incoming **Computer Engineering @ Georgia Tech (Fall 2026)** 🐝, passionate ab
 ![JavaScript](https://img.shields.io/badge/JavaScript-003057?style=for-the-badge&logo=javascript&logoColor=EAAA00)
 ![React](https://img.shields.io/badge/React-003057?style=for-the-badge&logo=react&logoColor=EAAA00)
 ![Node.js](https://img.shields.io/badge/Node.js-003057?style=for-the-badge&logo=node.js&logoColor=EAAA00)
+![Cypress](https://img.shields.io/badge/Cypress-003057?style=for-the-badge&logo=cypress&logoColor=EAAA00)
 ![HTML5](https://img.shields.io/badge/HTML5-003057?style=for-the-badge&logo=html5&logoColor=EAAA00)
 ![CSS3](https://img.shields.io/badge/CSS3-003057?style=for-the-badge&logo=css3&logoColor=EAAA00)
 ![Arduino](https://img.shields.io/badge/Arduino-003057?style=for-the-badge&logo=arduino&logoColor=EAAA00)
@@ -39,11 +40,10 @@ Incoming **Computer Engineering @ Georgia Tech (Fall 2026)** 🐝, passionate ab
 
 | 🐝 | projeto | o que é | stack |
 |---|---|---|---|
-| 🌵 | [**Seca.ai**](https://github.com/vitoriall/seca-ai) | Dashboard de risco de estiagem no Nordeste com dados reais da ANA/INMET e ML | Python · React · Node |
-| 🔍 | [**AlgoViz**](https://github.com/vitoriall/algoviz) | Visualizador de algoritmos em tempo real — sorting, BFS, Dijkstra | React · JS |
-| 🔐 | [**Caesar Cipher**](https://github.com/vitoriall/caesar-cipher) | Criptografia clássica com análise de frequência e brute-force | Python · HTML/CSS |
-| 🌡️ | [**Temp Monitor**](https://github.com/vitoriall/temp-monitor) | Arduino + Python + React lendo temperatura em tempo real | Arduino · Python · React |
-| 📚 | [**CS50x Notes**](https://github.com/vitoriall/cs50x) | Soluções comentadas e notas de estudo do CS50x | C · Python |
+| 🌲 | [**cypress-studies**](https://github.com/vitoriall/cypress-studies) | Diário de aprendizado Cypress — do zero a 90% de cobertura em produção (Jan–Jul 2025) | Cypress · JS · CI/CD |
+| 🌐 | [**xapiri2024**](https://github.com/vitoriall/xapiri2024) | Desenvolvimento web do site Xapiri | CSS · HTML |
+| 📡 | [**rede-mesh-ia-ceara**](https://github.com/vitoriall/rede-mesh-ia-ceara) | Rede mesh inteligente com IA para conectar comunidades rurais do Ceará — pesquisa IFCE | Python · IoT |
+| 🧠 | [**diabetes-prediction-raitec**](https://github.com/vitoriall/diabetes-prediction-raitec) | Modelo de ML para previsão de demanda hospitalar — RAITec/UFC | Python · ML |
 
 ---
 
