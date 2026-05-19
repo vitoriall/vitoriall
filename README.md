@@ -75,8 +75,11 @@ Incoming **Computer Engineering @ Georgia Tech (Fall 2026)** 🐝, passionate ab
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/@vitoriadocontra-003057?style=for-the-badge&logo=x&logoColor=EAAA00)](https://twitter.com/vitoriadocontra)
-[![GitHub](https://img.shields.io/badge/vitoriall-003057?style=for-the-badge&logo=github&logoColor=EAAA00)](https://github.com/vitoriall)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-003057?style=for-the-badge&logo=linkedin&logoColor=EAAA00)](https://www.linkedin.com/in/vitoria-albuquerque-tech)
+[![Instagram](https://img.shields.io/badge/Instagram-003057?style=for-the-badge&logo=instagram&logoColor=EAAA00)](https://www.instagram.com/vitoriaalbuquerquel/)
+[![X](https://img.shields.io/badge/X-003057?style=for-the-badge&logo=x&logoColor=EAAA00)](https://x.com/vitoriadocontra)
+[![Portfolio](https://img.shields.io/badge/Portfolio-003057?style=for-the-badge&logo=canva&logoColor=EAAA00)](http://vitorialimaalbuquerque.my.canva.site)
+[![Gmail](https://img.shields.io/badge/Gmail-003057?style=for-the-badge&logo=gmail&logoColor=EAAA00)](mailto:vitoriaalbuquerquestudent@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=vitoriall&style=for-the-badge&color=EAAA00&labelColor=003057&label=🐝+visitors)
 
