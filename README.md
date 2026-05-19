@@ -8,7 +8,7 @@
 
 ---
 
-### 🐝 sobre mim
+### 🐝 About me
 
 I'm Vitória — a developer from **Fortaleza, Ceará** (Northeast Brazil 🌵).
 
@@ -18,7 +18,7 @@ Incoming **Computer Engineering @ Georgia Tech (Fall 2026)** 🐝, passionate ab
 
 ---
 
-### 🛠️ tech stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -36,7 +36,7 @@ Incoming **Computer Engineering @ Georgia Tech (Fall 2026)** 🐝, passionate ab
 
 ---
 
-### 🚀 projetos em destaque
+### 🚀 Important Projects
 
 | 🐝 | projeto | o que é | stack |
 |---|---|---|---|
@@ -47,14 +47,7 @@ Incoming **Computer Engineering @ Georgia Tech (Fall 2026)** 🐝, passionate ab
 
 ---
 
-### 📊 github stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitoriall&show_icons=true&bg_color=003057&title_color=EAAA00&icon_color=B3A369&text_color=ffffff&border_color=EAAA00&border_radius=12&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriall&layout=compact&bg_color=003057&title_color=EAAA00&text_color=ffffff&border_color=EAAA00&border_radius=12" />
-
-</div>
+### 📊 Github Stats
 
 <div align="center">
 
@@ -64,7 +57,7 @@ Incoming **Computer Engineering @ Georgia Tech (Fall 2026)** 🐝, passionate ab
 
 ---
 
-### 🐍 contribution snake
+### 🐍 Contribution Snake
 
 <div align="center">
 
@@ -78,7 +71,7 @@ Incoming **Computer Engineering @ Georgia Tech (Fall 2026)** 🐝, passionate ab
 
 ---
 
-### 💬 fala comigo
+### 💬 Talk to me
 
 <div align="center">
 
