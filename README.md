@@ -10,9 +10,9 @@
 
 ### 🐝 About me
 
-I'm Vitória — a developer from **Fortaleza, Ceará** (Northeast Brazil 🌵).
+I'm Vitória — a developer from **Ceará** (Northeast Brazil 🌵).
 
-Incoming **Computer Engineering @ Georgia Tech (Fall 2026)** 🐝, passionate about AI/ML, embedded systems, algorithms, and tech for social impact. I believe the best code solves real problems for real people — especially the ones nobody else is building for.
+Incoming **Computer Engineering @ Georgia Tech (Fall 2026)** 🐝, passionate about AI/ML, embedded systems, algorithms, and tech for social impact. I believe the best code solves real problems for real people.
 
 > *"First, solve the problem. Then, write the code." — then debug for 3 hours, then celebrate 🎉*
 
