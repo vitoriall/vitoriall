@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3A369,50:003057,100:B3A369&height=200&section=header&text=Vitória%20Albuquerque&fontSize=40&fontColor=EAAA00&animation=fadeIn&fontAlignY=38&desc=🐝%20incoming%20Georgia%20Tech%20%7C%20Fall%202026%20🐝&descAlignY=58&descSize=16&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3A369,50:003057,100:B3A369&height=200&section=header&text=Vitória%20Albuquerque&fontSize=40&fontColor=EAAA00&animation=fadeIn&fontAlignY=38&desc=🐝%20Incoming%20Georgia%20Tech%20%7C%20Fall%202026%20🐝&descAlignY=58&descSize=16&descColor=ffffff" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=EAAA00&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=70&lines=Computer+Engineering+%40+Georgia+Tech+Fall+2026+🐝;Python+%7C+JavaScript+%7C+React+%7C+Cypress+%7C+Arduino;building+things+that+matter+from+Northeast+Brazil+🌵)](https://git.io/typing-svg)
 
