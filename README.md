@@ -1,130 +1,96 @@
 <div align="center">
 
-<!-- Animated header com SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Vitória%20Albuquerque&fontSize=38&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=building%20things%20that%20matter%20from%20the%20Northeast%20of%20Brazil&descAlignY=58&descSize=14&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3A369,50:003057,100:B3A369&height=200&section=header&text=Vitória%20Albuquerque&fontSize=40&fontColor=EAAA00&animation=fadeIn&fontAlignY=38&desc=🐝%20incoming%20Georgia%20Tech%20%7C%20Fall%202026%20🐝&descAlignY=58&descSize=16&descColor=ffffff" />
 
-</div>
-
-<div align="center">
-
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Computer+Engineering+%40+Georgia+Tech+Fall+2026+%F0%9F%90%9D;Python+%7C+JavaScript+%7C+React+%7C+Node.js;Building+tech+for+social+impact+in+Brazil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=EAAA00&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=70&lines=Computer+Engineering+%40+Georgia+Tech+Fall+2026+🐝;Python+%7C+JavaScript+%7C+React+%7C+Node.js+%7C+Arduino;building+things+that+matter+from+Northeast+Brazil+🌵)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<div align="center">
+### 🐝 sobre mim
 
-### 🌎 sobre mim / about me
+I'm Vitória — a developer from **Fortaleza, Ceará** (Northeast Brazil 🌵).
 
-</div>
+Incoming **Computer Engineering @ Georgia Tech (Fall 2026)** 🐝, passionate about AI/ML, embedded systems, algorithms, and tech for social impact. I believe the best code solves real problems for real people — especially the ones nobody else is building for.
 
-```python
-vitoria = {
-    "name":        "Vitória Albuquerque",
-    "location":    "Fortaleza, Ceará — Northeast Brazil 🌵",
-    "education":   "Computer Engineering @ Georgia Tech (Fall 2026) 🐝",
-    "languages":   ["Python", "JavaScript", "HTML/CSS"],
-    "frameworks":  ["React", "Node.js"],
-    "interests":   ["AI/ML", "IoT & Hardware", "Algorithms", "Social Impact Tech"],
-    "currently":   "Building a portfolio that tells a story 📖",
-    "fun_fact":    "My first project had a heart trail made of CSS ❤️"
-}
-```
+> *"First, solve the problem. Then, write the code." — then debug for 3 hours, then celebrate 🎉*
 
 ---
-
-<div align="center">
 
 ### 🛠️ tech stack
 
-</div>
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=e94560)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=e94560)
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=e94560)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=e94560)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=e94560)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=e94560)
-![Arduino](https://img.shields.io/badge/Arduino-1a1a2e?style=for-the-badge&logo=arduino&logoColor=e94560)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=e94560)
+![Python](https://img.shields.io/badge/Python-003057?style=for-the-badge&logo=python&logoColor=EAAA00)
+![JavaScript](https://img.shields.io/badge/JavaScript-003057?style=for-the-badge&logo=javascript&logoColor=EAAA00)
+![React](https://img.shields.io/badge/React-003057?style=for-the-badge&logo=react&logoColor=EAAA00)
+![Node.js](https://img.shields.io/badge/Node.js-003057?style=for-the-badge&logo=node.js&logoColor=EAAA00)
+![HTML5](https://img.shields.io/badge/HTML5-003057?style=for-the-badge&logo=html5&logoColor=EAAA00)
+![CSS3](https://img.shields.io/badge/CSS3-003057?style=for-the-badge&logo=css3&logoColor=EAAA00)
+![Arduino](https://img.shields.io/badge/Arduino-003057?style=for-the-badge&logo=arduino&logoColor=EAAA00)
+![Git](https://img.shields.io/badge/Git-003057?style=for-the-badge&logo=git&logoColor=EAAA00)
 
 </div>
 
 ---
 
-<div align="center">
+### 🚀 projetos em destaque
+
+| 🐝 | projeto | o que é | stack |
+|---|---|---|---|
+| 🌵 | [**Seca.ai**](https://github.com/vitoriall/seca-ai) | Dashboard de risco de estiagem no Nordeste com dados reais da ANA/INMET e ML | Python · React · Node |
+| 🔍 | [**AlgoViz**](https://github.com/vitoriall/algoviz) | Visualizador de algoritmos em tempo real — sorting, BFS, Dijkstra | React · JS |
+| 🔐 | [**Caesar Cipher**](https://github.com/vitoriall/caesar-cipher) | Criptografia clássica com análise de frequência e brute-force | Python · HTML/CSS |
+| 🌡️ | [**Temp Monitor**](https://github.com/vitoriall/temp-monitor) | Arduino + Python + React lendo temperatura em tempo real | Arduino · Python · React |
+| 📚 | [**CS50x Notes**](https://github.com/vitoriall/cs50x) | Soluções comentadas e notas de estudo do CS50x | C · Python |
+
+---
 
 ### 📊 github stats
 
-</div>
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vitoriall&show_icons=true&theme=tokyonight&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=a8b2d8&border_color=e94560&border_radius=10&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriall&layout=compact&theme=tokyonight&bg_color=1a1a2e&title_color=e94560&text_color=a8b2d8&border_color=e94560&border_radius=10&hide_border=false" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriall&theme=tokyonight&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&border=e94560&dates=a8b2d8&border_radius=10" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 featured projects
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=vitoriall&show_icons=true&bg_color=003057&title_color=EAAA00&icon_color=B3A369&text_color=ffffff&border_color=EAAA00&border_radius=12&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriall&layout=compact&bg_color=003057&title_color=EAAA00&text_color=ffffff&border_color=EAAA00&border_radius=12" />
 
 </div>
 
 <div align="center">
 
-[![Seca.ai](https://github-readme-stats.vercel.app/api/pin/?username=vitoriall&repo=seca-ai&theme=tokyonight&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=a8b2d8&border_color=e94560)](https://github.com/vitoriall/seca-ai)
-[![AlgoViz](https://github-readme-stats.vercel.app/api/pin/?username=vitoriall&repo=algoviz&theme=tokyonight&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=a8b2d8&border_color=e94560)](https://github.com/vitoriall/algoviz)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriall&background=003057&ring=EAAA00&fire=B3A369&currStreakLabel=EAAA00&sideLabels=ffffff&border=EAAA00&dates=aaaaaa&border_radius=12" />
 
 </div>
 
 ---
-
-<div align="center">
 
 ### 🐍 contribution snake
-
-</div>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitoriall/vitoriall/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitoriall/vitoriall/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitoriall/vitoriall/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/vitoriall/vitoriall/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
+### 💬 fala comigo
+
 <div align="center">
 
-### 📡 find me
+[![X](https://img.shields.io/badge/@vitoriadocontra-003057?style=for-the-badge&logo=x&logoColor=EAAA00)](https://twitter.com/vitoriadocontra)
+[![GitHub](https://img.shields.io/badge/vitoriall-003057?style=for-the-badge&logo=github&logoColor=EAAA00)](https://github.com/vitoriall)
 
-[![X / Twitter](https://img.shields.io/badge/@vitoriadocontra-1a1a2e?style=for-the-badge&logo=x&logoColor=e94560)](https://twitter.com/vitoriadocontra)
-[![GitHub](https://img.shields.io/badge/vitoriall-1a1a2e?style=for-the-badge&logo=github&logoColor=e94560)](https://github.com/vitoriall)
-
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=vitoriall&style=for-the-badge&color=e94560&labelColor=1a1a2e&label=profile+views)
+![](https://komarev.com/ghpvc/?username=vitoriall&style=for-the-badge&color=EAAA00&labelColor=003057&label=🐝+visitors)
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003057,50:B3A369,100:003057&height=120&section=footer&text=🐝%20buzz%20buzz%20🐝&fontSize=20&fontColor=EAAA00&animation=fadeIn" />
 
 </div>
