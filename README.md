@@ -51,7 +51,7 @@ Incoming **Computer Engineering @ Georgia Tech (Fall 2026)** 🐝, passionate ab
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vitoriall&show_icons=true&bg_color=003057&title_color=EAAA00&icon_color=B3A369&text_color=ffffff&border_color=EAAA00&border_radius=12&count_private=true" />
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitoriall&show_icons=true&bg_color=003057&title_color=EAAA00&icon_color=B3A369&text_color=ffffff&border_color=EAAA00&border_radius=12&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriall&layout=compact&bg_color=003057&title_color=EAAA00&text_color=ffffff&border_color=EAAA00&border_radius=12" />
 
 </div>
